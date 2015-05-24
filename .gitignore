@@ -1,0 +1,7 @@
+*/target/
+*/test/
+*/.idea/
+*/.classpath
+*/.project
+*/.application.properties
+*/workspace.xml
