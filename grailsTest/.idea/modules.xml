@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../editor/editor.iml" filepath="$PROJECT_DIR$/../editor/editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grailsScript/grailsScript.iml" filepath="$PROJECT_DIR$/../grailsScript/grailsScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grailsScript1/grailsScript1.iml" filepath="$PROJECT_DIR$/../grailsScript1/grailsScript1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../mxwork/grailsCommon/grailsScriptSupport/grailsScriptSupport.iml" filepath="$PROJECT_DIR$/../../../mxwork/grailsCommon/grailsScriptSupport/grailsScriptSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grailsTest.iml" filepath="$PROJECT_DIR$/grailsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pluginTest/pluginTest.iml" filepath="$PROJECT_DIR$/../pluginTest/pluginTest.iml" />
+    </modules>
+  </component>
+</project>
+

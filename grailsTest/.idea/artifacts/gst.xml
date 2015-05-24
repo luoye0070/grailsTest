@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gst">
+    <output-path>$PROJECT_DIR$/out/artifacts/gst</output-path>
+    <root id="archive" name="gst.jar">
+      <element id="module-output" name="grailsScript1" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../grailsScript1/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

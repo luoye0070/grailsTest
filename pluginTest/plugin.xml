@@ -1,0 +1,20 @@
+<plugin name='plugin-test' version='0.1' grailsVersion='2.2 &gt; *'>
+  <author>Your name</author>
+  <title>Plugin Test Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/plugin-test</documentation>
+  <type>PluginTestGrailsPlugin</type>
+  <resources>
+    <resource>com.lj.test.OneTestController</resource>
+    <resource>com.lj.test.OneTest</resource>
+  </resources>
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
